@@ -88,10 +88,10 @@
       "species": "Quokka",
       "diet": "herbivore",
       "personalityTraits": [
-       "loving"
+        "loving"
       ]
     },
-      {
+    {
       "id": "9",
       "name": "Tamara",
       "species": "Tiger",
@@ -99,6 +99,15 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "10"
     }
   ]
 }
